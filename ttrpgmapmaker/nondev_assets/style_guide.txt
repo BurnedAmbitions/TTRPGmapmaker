@@ -1,0 +1,7 @@
+Based on the official GDScript style guide: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html
+
+TABS: Use tabs instead of spaces for indentation 
+
+INDENTATION: Each indent level should be one greater than the block containing it
+	for i in range(10):
+		print("hello")

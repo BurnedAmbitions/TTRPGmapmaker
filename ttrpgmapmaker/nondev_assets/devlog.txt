@@ -1,0 +1,6 @@
+Nov 29th, 2025
+- Time to finally start this fucker 
+- 11am: watching BoBaskoro play Elden Ring Nightreign and setting up file structure
+- Goal for today: get basic file structure set up, code basic perlin noise, commit to git
+- I'm kinda intimidated but I think once I get going I'll be okay
+- Followed this tutorial to get incredibly basic pcg going: https://www.youtube.com/watch?v=NUZ-oj5bvrE&t=241s
